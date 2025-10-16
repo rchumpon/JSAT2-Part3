@@ -8,9 +8,9 @@ const myString = "This is a string"
 const anotherString = "   Another string" // note there are 3 blank spaces at the beginning)
 
 // Use slice() to extract characters from index 5 and up to, but not including index 9.
-newStr1 = myString.slice(5, 9);
+let newStr1 = myString.slice(5, 9);
 // Use substring() to extract characters from index 6 up to, but not including index 9.
-newStr2 = anotherString.substring(6, 9);
+let newStr2 = anotherString.substring(6, 9);
 
 // Display the results.
 console.log(newStr1);

@@ -2,6 +2,7 @@
 // Description: Use various utility methods to create new strings.
 // Author: Roongroj Chumpon
 // Date: 17/10/25
+// Version: 1.0.0
 
 // Use the concat method to join the hello string and myName string
 // Declare variables to store two strings

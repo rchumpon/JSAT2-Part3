@@ -1,0 +1,37 @@
+// File: Q3.6_Algorithms.txt
+// Description: Create algorithms for file handling
+// Author: Roongroj Chumpon
+// Date: 17/10/25
+// Version: 1.0.0
+
+<Saving a text file algorithm>
+
+1. Import the ‘fs’ (File System) module from Node.js.
+2. Create the string data to be written.
+3. Display a message before starting the write process.
+4. Use fs.writeFile() function to write data to a file.
+5. Add the following parameters to fs.writeFile() function:
+  - The file name
+  - The data being written
+  - Any options (optional)
+  - A callback function
+6. Check if an error occurred.
+7. Display the error message.
+8. Log the file was successfully written.
+9. End the program.
+
+<Reading a text file algorithm>
+
+1. Import the ‘fs’(File System) module from Node.js
+2. Specify the name of the file to read.
+3. Display a message before starting the read process.
+4. Use the fs.readFile() function to read the contents of the file.
+5. Add the following parameters to the fs.readFile() function:
+  - The file name
+  - The file encoding
+  - A callback function
+6. Check if an error occurred.
+7. Display the error message if any.
+8. if successful, display the contents of the file.
+9. End the program.
+

@@ -2,6 +2,7 @@
 // Description: Use the functions slice and substring to create new strings
 // Author: Roongroj Chumpon
 // Date: 17/10/25
+// Version: 1.0.0
 
 // Define two strings.
 const myString = "This is a string"

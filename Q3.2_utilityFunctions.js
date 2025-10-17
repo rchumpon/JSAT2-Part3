@@ -2,6 +2,7 @@
 // Description: Use the utility functions to find out information
 // Author: Roongroj Chumpon
 // Date: 16/10/25
+// Version: 1.0.0
 
 // Declare a constant variable named 'myString' and assign it a string value.
 const myString = "This is a string"

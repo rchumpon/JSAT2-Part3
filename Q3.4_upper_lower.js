@@ -2,6 +2,7 @@
 // Description: Change the case of the myName string.
 // Author: Roongroj Chumpon
 // Date: 17/10/25
+// Version: 1.0.0
 
 // Declare a variable.
 const myName = "Roongroj";
